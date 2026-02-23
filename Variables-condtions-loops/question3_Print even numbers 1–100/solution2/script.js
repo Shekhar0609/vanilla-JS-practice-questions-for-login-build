@@ -9,7 +9,7 @@ odd.push(i)
 } else {
 even.push(i)
 }
-i++
+i++	
 }
 
 
