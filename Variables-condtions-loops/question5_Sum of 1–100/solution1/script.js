@@ -1,9 +1,8 @@
 let numberArray=[]
 let sum=0;
 
-for(i=0; i<100; i++){
-	numberArray.push(i)
-	sum+=numberArray[i]
+for(i=1; i<=100; i++){
+	sum+=numberArray.push(i)
 }
 
 console.log(numberArray)
